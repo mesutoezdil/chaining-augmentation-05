@@ -43,9 +43,3 @@ You can then interact with the application by typing your questions. Type "exit"
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a pull request or open an issue to discuss improvements or suggestions.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-- Thanks to the developers of the libraries used in this project.
